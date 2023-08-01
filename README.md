@@ -13,18 +13,17 @@ The console will ask the user for:
 
 And return 
 
-- AddressLine1
-- AddressLine2
+- Address Line 1
+- Address Line 2
 - City
 - State 
 - Zip
-- ResultCodes
+- Result Codes
 
 ## Tested Environments
-- Linux 64-bit g++ 9.4.0
-- Ubuntu 20.04.05 LTS
+- Linux 64-bit g++ 9.4.0, Ubuntu 20.04.05 LTS
 - GNU Make 4.2.1
-- Melissa data files for 2023-06
+- Melissa data files for 2023-07
 
 ## Required File(s) and Programs
 
@@ -79,7 +78,7 @@ Once you have finished the installations, you should be able to verify that they
 
 #### Download this project
 ```
-$ git clone https://github.com/MelissaData/RightFielderObject-Cpp-Linux.git
+$ git clone https://github.com/MelissaData/RightFielderObject-Cpp-Linux
 $ cd RightFielderObject-Cpp-Linux
 ```
 
