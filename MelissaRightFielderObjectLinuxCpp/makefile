@@ -3,7 +3,7 @@
 CXX = g++
 CXXFLAGS = -Wall -Wextra -pedantic -std=c++11 -g
 LDLIBS = -lmdRightFielder
-LDFLAGS = -L/home/emaiiii/MdLinuxExamples/RightFielderObject-Cpp-Linux/MelissaRightFielderObjectLinuxCpp/Build
+LDFLAGS = -L/home/jessicasusilo/test/github/RightFielderObject-Cpp-Linux/MelissaRightFielderObjectLinuxCpp/Build
 RM = rm -f
 
 OUT_DIR = Build
