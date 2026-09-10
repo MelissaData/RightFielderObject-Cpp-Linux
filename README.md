@@ -5,7 +5,7 @@ This code showcases the Melissa Right Fielder Object using C++.
 
 Please feel free to copy or embed this code to your own project. Happy coding!
 
-For the latest Melissa Right Fielder Object release notes, please visit: https://releasenotes.melissa.com/on-premise-api/rightfielder-object/
+To view the latest Melissa Right Fielder Object release notes or to subscribe to product notifications, please visit: https://releasenotes.melissa.com/on-premise-api/rightfielder-object/
 
 For further details, please visit: https://docs.melissa.com/on-premise-api/rightfielder-object/rightfielder-object-quickstart.html
 
@@ -25,7 +25,7 @@ And return
 ## Tested Environments
 - Linux 64-bit g++ 9.4.0, Ubuntu 20.04.05 LTS
 - GNU Make 4.2.1
-- Melissa data files for 2026-Q2
+- Melissa data files for 2026-Q3
 
 ## Required File(s) and Programs
 
